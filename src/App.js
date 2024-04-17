@@ -17,7 +17,9 @@ function App() {
             Hi, I am Sandeep Dhamala...
           </span>
           <span className="paragraph">
-I'm a versatile professional with expertise in technical support, network operations, full-stack development, and graphic design. Skilled in diagnosing and resolving IT issues, I also excel in network management using tools like Nokia AMS and Huawei NCE. As a full-stack developer, I design and deploy web applications, and my graphic design skills add a creative edge to branding strategies. I'm committed to optimizing systems, enhancing user experiences, and driving business success.          <div className="App">
+I'm a versatile professional with expertise in technical support, network operations, full-stack development, and graphic design. Skilled in diagnosing and resolving IT issues, I also excel in network management using tools like Nokia AMS and Huawei NCE. As a full-stack developer, I design and deploy web applications, and my graphic design skills add a creative edge to branding strategies. I'm committed to optimizing systems, enhancing user experiences, and driving business success.          
+      </span>
+    <div className="App">
           <a href="https://drive.google.com/file/d/1Y8QOGaai3QDOtA7wSgjAPz3o0GlpM5bK/view?usp=sharing" target="_blank" rel="noreferrer">
           <button className="resume">Download Resume</button>
         </a>
