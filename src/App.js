@@ -9,12 +9,12 @@ function App() {
 
   return (
     <div id="div1">
-      <span className="nav">  Sandra Rosa Antony</span>
+      <span className="nav">  Sandeep Dhamala</span>
       <div className="main">
         <img src={logo} alt="Logo" className="girl" />
         <div className="content">
           <span className="heading">
-            Hi, I am Sandra, a Full-stack developer...
+            Hi, I am Sandeep, a Full-stack developer...
           </span>
           <span className="paragraph">
             I am a student web developer. I am currently improving my skills in web development in MERN stack.And I am truly an enthusiastic...
@@ -28,9 +28,9 @@ function App() {
         </div>
         <div className="images">
 
-          <img src={linkedin} alt="linkedin" className="group11 icon" onClick={()=> window.open("https://www.linkedin.com/in/sandra-rosa-antony-66a964220/", "_blank")} />
-          <img src={instagram} alt="instagram" className="group7 icon" onClick={()=> window.open("https://www.instagram.com/__zet_wounded_beast/", "_blank")}/>
-          <img src={github} alt="github" className="group8 icon" onClick={()=> window.open("https://github.com/Sandra-Rosa", "_blank")}/>
+          <img src={linkedin} alt="linkedin" className="group11 icon" onClick={()=> window.open("https://www.linkedin.com/in/sandeep-dhamala-10030a219", "_blank")} />
+          <img src={instagram} alt="instagram" className="group7 icon" onClick={()=> window.open("https://www.instagram.com/sandeep__dhamala/", "_blank")}/>
+          <img src={github} alt="github" className="group8 icon" onClick={()=> window.open("https://github.com/sandeep0600", "_blank")}/>
         </div>
       </div>
     </div>
