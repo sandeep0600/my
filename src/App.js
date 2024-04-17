@@ -20,7 +20,7 @@ function App() {
             I am a student web developer. I am currently improving my skills in web development in MERN stack.And I am truly an enthusiastic...
           </span>
           <div className="App">
-          <a href="https://drive.google.com/file/d/1ZVWnZSqE0Lqq2ElqA41kIstYxPJgTygO/view?usp=share_link" target="_blank" rel="noreferrer">
+          <a href="https://drive.google.com/file/d/1Y8QOGaai3QDOtA7wSgjAPz3o0GlpM5bK/view?usp=sharing" target="_blank" rel="noreferrer">
           <button className="resume">Download Resume</button>
         </a>
 
